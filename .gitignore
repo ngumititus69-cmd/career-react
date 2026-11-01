@@ -1,3 +1,8 @@
 /storage/*.sqlite
 /storage/*.sqlite-*
 /storage/*.db
+/netlify-app/node_modules/
+/netlify-app/dist/
+/netlify-app/.env
+/netlify-app/.env.*
+!/netlify-app/.env.example
